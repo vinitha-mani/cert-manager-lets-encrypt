@@ -40,4 +40,6 @@ Step 17:- kubectl describe certificate example-tls
 
 Step 18:- kubectl get cert -> true
 
-Verify https://app.harinanda.shop in web-browser
+Verify https://example.com in web-browser
+Verify https://app.example.com in web-browser 
+Verify https://test.example.com in web-browser
